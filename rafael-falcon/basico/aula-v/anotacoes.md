@@ -1,4 +1,4 @@
-## Exemplo de comentário gramtical escolar:
+## Exemplo de comentário gramatical escolar:
 
 #### Maurus Servius Honoratus, comentário a Eneida de Virgílio
 
