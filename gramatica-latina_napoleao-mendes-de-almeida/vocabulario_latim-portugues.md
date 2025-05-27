@@ -1,0 +1,735 @@
+## VOCABULÁRIO LATIM-PORTUGUÊS
+
+### Abreviaturas:
+
+- abl. = ablativo
+- ac. = acusativo
+- f. = feminino
+- m. = masculino
+- n. = neutro
+- subst. = substantivo
+- v. = verbo
+- V. = Veja
+
+### A
+
+- ab (abl.) – por, de (§ 93)
+- accipiter, accipitris – gavião
+- accuso, are – acusar
+- actio, onis f. – ação
+- ad (ac.) – para, até
+- adhortatio, onis – exortação
+- administro, are – administrar
+- adventus, us – chegada, vinda, aproximação
+- aegrotus, a, um – doente
+- AEgyptii, orum – egípcios
+- aer, aëris m. – ar
+- ager, agri – campo
+- agito, are – agitar
+- agnus, i – cordeiro
+- agricola, ae m. – agricultor
+- ala, ae f. – asa, ala
+- albus, a, um – branco
+- alter, éra, érum (§ 173, 5) – segundo
+- altus, a, um – alto
+- alumnus, i – aluno
+- ambülo, are – passear
+- amicitia, ae f. – amizade
+- amicus, i m. – amigo
+- amnis, is (§ 113, 3) – rio
+- amo, are (trans.) – amar, gostar de
+- amor, õris – amor
+- ancilla, ae f. – escrava, serva, criada
+- Ancus, i – Anco
+- angustus, a, um – apertado, estreito
+- animal, ãlis n. – animal
+- animus, i m. – disposição, inteligência, espírito, ânimo, atenção
+- annus, i – ano
+- antiquus, a, um – antigo
+- Antonius, ii – Antônio
+- anülus, i – anel
+- Apollo, inis – Apolo
+- apud (ac.) – entre
+- aqua, ae f. – água
+- aquila, ae f. – águia
+- Aquitania, ae – Aquitânia
+- aranea, ae f. – aranha
+- arbor, õris – árvore
+- arbuscüla, ae f. – arbusto
+- arguo, ere – acusar
+- Aristotéles, is – Aristóteles
+- Arpinas, ãtis – Arpinate
+- ars, artis – arte
+- artus, us m. (§ 118) – membro
+- Asia, ae – Ásia
+- asinus, i – burro
+- assiduus, a, um – contínuo, assíduo
+- Athenae, arum (§ 51) – Atenas
+- attentissime (§ 155) – atentissimamente
+- attentus, a, um – atencioso, cuidadoso, vigilante
+- Atticus, i – Ático
+- auctoritas, atis – autoridade
+- auditus, us m. – audição
+- Augustus, i – Augusto
+- aurum, i n. – ouro
+- australis, e – meridional
+- auxilium, ii n. – auxílio
+- avaritia, ae – avareza
+
+### B
+
+- Belgae, arum – belgas
+- bellicosus, a, um – belicoso
+- bellicus, a, um – bélico
+- bellum, i n. – guerra
+- beneficium, ii n. – benefício
+- beneficus, a, um – benéfico
+- blandus, a, um – lisonjeiro
+- bonum, i n. (subst.) – bem
+- bonus, a, um (adj.) – bom
+- bos, bovis (§ 126) – boi
+- Brutus, i – Bruto
+
+### C
+
+- caecus, a, um – cego
+- caedo, ere – sacrificar
+- Caesar, ãris – Cesar
+- calamitas, atis – calamidade
+- calcar, ãris n. – espora
+- camelus, i – camelo
+- canis, is – cão
+- capillus, i – cabelo
+- captivus, i – escravo, prisioneiro
+- caritas, atis – caridade
+- caro, carnis f. (§ 126) – carne
+- carus, a, um – caro, precioso
+- castigo, are – corrigir, castigar
+- castra, orum n. (§ 72) – acampamento
+- casus, us m. – acaso
+- Catilina, ae – Catilina
+- causa, ae – causa
+- celeber, bris, bre – célebre
+- celebro, are – celebrar
+- celer, éris, ere – célere
+- cerno, ere – conhecer, perceber, distinguir
+- certus, a, um – certo
+- Cicero, õnis – Cícero
+- Cimon, õnis – Cimon
+- circundo, are – circundar
+- cis (ac.) – aquem de
+- civilis, e – civil
+- civis, is – cidadão
+- clarus, a, um – ilustre
+- classis, is f. – armada, frota
+- clemens, entis – clemente
+- coena, ae – refeição
+- coeno, are – jantar
+- cogitatio, õnis f. – pensamento
+- cohors, ortis f. – coorte
+- color, õris m. – cor
+- columba, ae – pomba
+- commeatus, us m. – meios de transporte
+- commendo, are – recomendar
+- commentarium, ii n. – comentário
+- commõdus, a, um – vantajoso
+- commoveo, ere – agitar
+- communis, e – comum
+- compãro, are – preparar
+- compos, õtis – senhor
+- concino, ere – cantar, louvar
+- concordia, ae – concórdia
+- conditio, õnis – condição
+- confragosus, a, um – áspero, íngreme
+- conscientia, ae – conciência
+- consul, ülis – consul
+- consumo, ere – gastar
+- converto, ere – voltar
+- convoco, are – convocar
+- copia, ae (V. § 50) – abundância
+- copiosus, a, um – rico
+- cornu, u (§ 116) – lado
+- corona, ae – coroa
+- corpus, õris n. – corpo
+- cras, adv. – amanhã
+- creo, are – nomear
+- culpa, ae – culpa
+- cum (rege ablat.) – com
+- cur? – porquê?
+- curo, are (trans.) – cuidar de
+- custodia, ae – guarda
+- custos, õdis – guarda
+
+### D
+
+- damno, are – condenar
+- damnum, i n. – dano
+- Darius, ii – Dario
+- de (abl.) – acerca de, a respeito de, sobre
+- debeo, ere – dever
+- delecto, are – deleitar, encantar
+- deleo, ere – apagar, destruir
+- describo, ere – descrever, relatar
+- desidéro, are – desejar
+- Deus, Dei (§ 74) – Deus
+- devoro, are – devorar
+- dexter, tra, trum (ou téra, térum) – direito
+- dicatus, a, um – dedicado
+- dicto, are – ditar
+- dies, diéi (§ 120, ob. 1) – dia
+- diligens, entis – diligente
+- diligenter – diligentemente
+- diligo, ere – amar, estimar
+- dilucide – claramente
+- dimico, are – lutar
+- dis, dite (136, A, ob. 4) – rico, opulento
+- discipülus, i – discípulo
+- ditior – comparativo de dives
+- diversus, a, um – diferente
+- dives, itis – rico, abastado
+- divino, are – pressagiar, antever
+- do, dare – dar, proporcionar, causar
+- doceo, ere – ensinar
+- dolor, õris m. – dor
+- domesticus, a, um – doméstico
+- domicilium, ii – domicílio
+- domina, ae – senhora
+- dominus, i – senhor
+- domus (§ 117) – casa
+- dubius, a, um – duvidoso, incerto
+- duco, ere – conduzir, comandar
+- duo, ae, duo (§ 171, 2) – dois
+- durities, éi – dureza
+- dux, ducis – comandante, general, chefe
+
+### E
+
+- etiam – tambem
+- Europa, ae – Europa
+- exemplum, i n. – exemplo
+- exerceo, ere – exercitar
+- exercitus, us m. – exército
+- eximie – magnificamente
+- existimo, are – apreciar
+- exitus, us m. – resultado
+- explico, are – explicar
+- expugno, are – subjugar
+- externus, a, um – externo
+- extra (ac.) – fora de
+
+### F
+
+- fabüla, ae – fábula
+- facies, éi – face, aspeto
+- facinus, õris n. – ação
+- factum, i n. – feito, ação
+- facultas, atis – faculdade, força
+- falsus, a, um – falso
+- fames, is – fome
+- felix, icis – feliz
+- femina, ae – mulher
+- fere – quase
+- ferox, õcis – intoleravel
+- ferreus, a, um – de ferro, férreo
+- ferrum, i n. – ferro
+- fessus, a, um – cansado
+- festus, a, um – festivo, de festa
+- fidelis, e – fiel
+- fides, fidei – fidelidade
+- fidus, a, um – fiel
+- filia, ae (§ 75) – filha
+- filius, ii (§ 74 e 75) – filho
+- finis, is – sing.=fim; pl. = = território (§ 115, a)
+- firmo, are – assegurar
+- firmus, a, um – firme
+- florens, entis – florescente
+- flos, oris m. – flor
+- flumen, inis n. – rio
+- fluvius, ii m. – rio
+- foedus, éris n. – tratado
+- foramen, inis n. – buraco
+- formido, are – temer, recear
+- fortis, e – corajoso, forte
+- fortuna, ae – fortuna, sorte
+- frater, fratris – irmão
+- frons, ntis – fronte
+- fructus, us m. – fruto
+- frumentum, i n. – trigo
+- fuga, ae – fuga
+- fugo, are – afugentar, afastar, por em fuga
+- fulgens, entis – refulgente
+- fulgeo, ére – brilhar
+- fulmen, inis n. – raio (descarga elétrica)
+- fundamentum, i n. – fundamento, base
+- furfüres, um (m. pl.) – farelo
+- futurus, a, um – futuro (adj.)
+
+### G
+
+- Galli, orum – gauleses
+- Gallia, ae – Gália, França
+- gallicus, a, um – gaulês
+- gallina, ae – galinha
+- Garumna, ae m. – Garona (rio)
+- gener, éri – genro
+- genus, éris n. – gênero
+- Germani, orum – germanos
+- Germania, ae – Germânia
+- glis, gliris – arganaz
+- gloria, ae – glória
+- gracilis, e – fragil
+- Graeci, orum – gregos
+- Graecia, ae – Grécia
+- graecus, a, um (adj.) – grego
+- gratia, ae – graça
+- gratus, a, um – grato, agradecido, agradavel
+- gustus, us – gosto
+
+### H
+
+- habeo, ére – ter
+- habito, are – habitar
+- Helvetii, orum – helvécios
+- herba, ae – erva
+- Herõdes, is – Herodes
+- herus, i – patrão
+- hiems, hiémis f. – inverno
+- historia, ae – história
+- Homerus, i – Homero
+- homo, inis – homem
+- honestus, a, um – honesto
+- honor, õris m. – honra
+- Horatius, ii – Horácio
+- hortus, i m. – jardim (§ 72)
+- Hostilius, ii – Hostílio
+- hostis, is – inimigo (de guerra)
+- humanus, a, um – humano
+- humilis, e – baixo, pequeno
+
+### I
+
+- ignavia, ae – covardia
+- ignavus, a, um – covarde
+- ignis, is (§ 113, 3) – fogo
+- Ilias, iãdis f. – Ilíada
+- illustro, are – iluminar
+- imãgo, inis – imagem
+- immolo, are – imolar
+- imperator, õris – imperador
+- imperium, ii n. – poder
+- impero, are (dat. de pessoa) – mandar
+- impetus, us – avanço
+- impius, ii – ímpio
+- imprõbus, a, um – mau
+- in – V. § 189
+- incertus, a, um – incerto, duvidoso
+- incitamentum, i n. – estímulo, incentivo
+- incito, are – incitar
+- incola, ae m. – habitante
+- indico, are – indicar
+- indignus, a, um – indigno
+- industria, ae – atividade
+- industrius, a, um – laborioso
+- infelix, icis – infeliz
+- inferior – V. § 156
+- inflammo, are – inflamar
+- ingenuus, a, um – de boa família
+- ingratus, a, um – ingrato
+- injustus, a, um – injusto
+- innõcens, entis – inocente
+- inopia, ae – carência, necessidade
+- inquino, are – sujar
+- insatiabilis, e – insaciavel
+- inscitia, ae – inexperiência
+- insüla, ae – ilha
+- inter. prep. (ac.) – entre, dentre
+- invoco, are – invocar
+- Italia, ae – Itália
+- iter, itineris n. – caminho
+
+### J
+
+- Jesus, u (§ 117) – Jesús
+- Jovis – V. § 105
+- jucundus, a, um – agradavel
+- judex, icis – juiz
+- Jupiter, Jovis (§ 105) – Júpiter
+- justitia, ae – justiça
+- justus, a, um – justo
+- juvenis, is (subst.) – moço, rapaz, jovem
+
+### L
+
+- laetitia, ae – alegria
+- laetus, a, um – alegre, satisfeito
+- lacrima, ae – lágrima
+- latinus, a, um – latino
+- laudo, are – louvar, elogiar
+- laurus, us (ou i) f. (§ 68) – loureiro
+- laus, laudis f. – louvor
+- lectio, onis – lição
+- legio, onis – legião
+- lego, ere – ler, escolher
+- lepus, õris m. – lebre
+- lex, legis – lei
+- liber, bri – livro
+- liber, éra, érum – livre
+- lingua, ae – língua, idioma
+- longus, a, um – comprido, longo
+- ludibrium, ii n. – capricho
+- luna, ae – lua
+- lupus, i – lobo
+- luscinia, ae f. – rouxinol
+
+### M
+
+- magister, tri – mestre, professor
+- magistratus, us – magistrado
+- magnus, a, um – grande
+- malum, i n. (subst.) – mal
+- malus, a, um (adj.) – mau
+- manipulus, i – manípulo (companhia de 200 soldados)
+- mare, maris n. – mar
+- Martius, ii – Márcio
+- mater, matris – mãe
+- maxime – V. § 167
+- memoria, ae – lembrança, memória
+- mens, mentis – mente, inteligência
+- mensa, ae – mesa
+- metallum, i n. – metal
+- metus, us – medo
+- meus, a, um – meu
+- mi – vocat. sing. masc. de meus, a, um
+- miles, litis – soldado
+- mille (pl. millia) (§ 171, 18) – mil
+- Miltiãdes, is – Milcíades
+- minimus, a, um – mínimo (§ 154)
+- ministro, are – fornecer
+- Minotaurus, i – Minotauro
+- minüo, ere – deminuir
+- miser, éra, érum – infeliz, desgraçado, miseravel
+- mitigo, are – abrandar
+- modestus, a, um – modesto
+- molestia, ae – miséria, pena
+- mons, montis m. – montanha, monte
+- monstro, are – mostrar
+- monstrum, i n. – monstro
+- morbus, i m. – doença
+- mores, morum m. pl. – procedimento, costumes
+- mors, mortis – morte
+- mos, moris m. – costume
+- motus, us m. – movimento
+- moveo, ere – mover
+- multitudo, üdinis – multidão
+- multus, a, um – muito
+- mundus, i – mundo, universo
+- munificus, a, um – generoso
+- munus, éris n. – presente
+- mus, muris – rato
+- musa, ae – musa
+- musca, ae f. – mosca
+- myrica, ae – urze
+
+### N
+
+- narro, are – narrar
+- nauta, ae m. – marinheiro
+- navis, is (§ 113, 3) – navio
+- Neapõlis, is – Nápoles
+- negotium, ii n. – negócio, coisa, ocupação
+- neque – nem (=e não)
+- neque... neque – nem... nem
+- nidus, i – ninho
+- niger, gra, grum – negro, preto
+- nomen, inis n. – nome
+- non – não; non minus quam, V. § 163
+- notus, a, um – conhecido
+- nox, noctis – noite
+- noxius, a, um – prejudicial
+- nubes, is – nuvem
+- Numa, ae – Numa (m.)
+- numerus, i – número
+- nuntio, are – anunciar, comunicar
+- nuntius, ii – mensageiro
+
+### O
+
+- obnoxius, a, um – sujeito, submetido
+- obscuro, are – obscurecer, escurecer
+- observo, are – observar
+- obses, idis – refem
+- obsideo, ere – cercar
+- obtempero, are (rel.) – obedecer
+- occüpo, are – ocupar
+- oculus, i – olho
+- odor, õris m. – perfume
+- olfactus, us – olfato
+- olim – outrora
+- omen, ominis n. – preságio
+- omnipõtens, entis – onipotente
+- omnis, e – todo
+- onus, éris n. – encargo, peso, obrigação
+- opãcus, a, um – sombrio
+- opinio, onis f. – pensamento, opinião
+- oppidani, orum – habitantes de cidade
+- oppidum, i n. – praça (cidade fortificada)
+- optimãtes (§ 114, c) – optimates, nobres
+- opulentus, a, um – opulento, rico
+- opus, éris n. – obra, trabalho
+- oracülum, i n. – oráculo
+- oratio, onis f. – discurso
+- orator, õris – orador
+- orno, are – adornar, enfeitar, embelezar, equipar
+- ovile, ilis n. – ovil, redil
+- ovum, i n. – ovo
+
+### P
+
+- pabülum, i n. – forragem
+- Palaestina, ae – Palestina
+- parcimonia, ae f. – economia
+- parcus, a, um – parco, frugal
+- parentes, um pl. – pais
+- paro, are – preparar, proporcionar, causar
+- pars, partis – parte
+- Parus, i – Paros
+- parvus, a, um – pequeno
+- pater, patris – pai
+- paterfamilias (§ 127, ob.) – chefe de família, pai de família
+- patria, ae – pátria
+- paucus, a, um – pouco
+- pax, pacis – paz
+- peccatum, i n. – falta, pecado
+- pecu (§ 118) – rebanho
+- pecunia, ae f. – dinheiro
+- pedes, itis – infante (soldado da infantaria)
+- penna, ae – pena (de ave)
+- perfuga, ae m. – desertor
+- periculosus, a, um – perigoso
+- pericülum, i n. – perigo
+- perniciosus, a, um – pernicioso, prejudicial
+- Persae, arum (subst.) – persas
+- pertinere – ir
+- philosõphus, i – filósofo
+- piétas, ãtis – piedade
+- piger, gra, grum – preguiçoso
+- pignus, éris n. – penhor
+- pigritia, ae – preguiça
+- pius, a, um – virtuoso, honrado
+- placeo, ere – agradar
+- Plato, õnis – Platão
+- plebs, plebis – plebe
+- pluvia, ae – chuva
+- pocülum, i n. – copo
+- poema, poemãtis n. – poema
+- poêsis, is (§ 113, 2) – poesia
+- poeta, ae m. – poeta
+- Pompilius, ii – Pompílio
+- popülus, i – povo
+- porticus, us f. – alpendre, pórtico
+- porto, are – levar, trazer, transportar
+- potestas, atis f. – poder (subst.)
+- praeceptor, õris – preceptor, professor
+- praeceptum, i n. – preceito
+- praedico, are – gabar
+- praemium, ii n. – prêmio
+- pretiosus, a, um – precioso
+- princeps, cipis – chefe, cabeça, príncipe
+- Priscus, i – Prisco
+- privo, are (rege abl.) – privar
+- pro (abl.) – em lugar de
+- probo, are – verificar, examinar
+- proelium, ii n. – combate
+- prohibeo, ere – impedir, proibir
+- provincia, ae – província
+- prudens, entis – prudente
+- prudenter – prudentemente
+- prudentia, ae – prudência
+- psittãcus, i – papagaio
+- puella, ae – moça
+- puer, i – menino
+- pugna, ae – batalha, combate
+- pugno, are – combater
+- pulcher, chra, chrum (ou pulcher, éra, crum) – lindo
+- purgo, are – limpar
+- Pyrenaeus, i (sing. e pl.) – Pirenéus
+
+### Q
+
+- quercus, us (§ 68 e 118) – carvalho
+- quia – porque
+- quies, quiétis f. – repouso, descanso
+- quiétus, a, um – sossegado, tranquilo, quieto
+- quo (§ 186, 1) – para onde
+- quoque – tambem
+
+### R
+
+- ramus, i – ramo
+- raro – raramente
+- recüso, are – recusar
+- reditus, us m. – volta
+- refugo, are – afugentar, expulsar
+- regina, ae – rainha
+- regius, a, um – régio, real
+- rego, ere – governar, dirigir
+- relinquo, ere – abandonar, deixar
+- remaneo, ere – parar, ficar
+- repério, ire – encontrar
+- requies, étis (§ 126) – descanso, repouso
+- res, rei – coisa, negócio, ocasião
+- reverentia, ae – respeito
+- rex, regis – rei
+- Rhenus, i – Reno
+- rivus, i – riacho
+- robur, õris n. – força
+- rogo, are – pedir
+- Roma, ae – Roma
+- Romani, orum – romanos (substantivo)
+- romanus, a, um (adj.) – romano
+- Romülus, i – Rômulo
+- ruber, bra, brum – vermelho, rubro
+- ruina, ae – ruína
+
+### S
+
+- sacerdos, õtis – sacerdote
+- saepe – muitas vezes
+- salüber, bris, bre – salubre, sadio, salutar
+- salus, salütis f. – salvação
+- sapiens, entis (§ 136, A, ob. 3) – sábio, douto
+- sapientia, ae – sabedoria
+- scribo, ere – escrever
+- scriptor, õris – escritor
+- scriptum, i – escrito
+- sed – mas (conjunção)
+- sedeo, ere – tomar assento, permanecer, ficar
+- sedo, are – matar, extinguir
+- semper – sempre (adv.)
+- senectus, ütis – velhice
+- senex, senis – velho, ancião
+- sepelio, ire – sepultar
+- Sequani, orum – séquanos
+- Servius, ii – Sérvio
+- servo, are – conservar, preservar, proteger, salvar, manter
+- servus, i – criado, escravo
+- si – se (conjunção)
+- signum, i n. – sinal, índice
+- silva, ae – selva, floresta, mata
+- simul – ao mesmo tempo
+- sinister, tra, trum – esquerdo
+- sitis, is – sede
+- socer, éri – sogro
+- socius, ii – aliado
+- Socrãtes, is – Sócrates
+- sol, solis m. – sol
+- soleo, ere – costumar
+- solidus, a, um – sólido
+- soror, õris – irmã
+- spatium, ii n. – espaço
+- spes, spei – esperança
+- splendidus, a, um – esplêndido
+- statua, ae f. – estátua
+- strepitus, us – estrépito, ruido
+- stultitia, ae – estultícia
+- Suevi, orum – suevos
+- suile, ilis n. – chiqueiro, pocilga
+- sum, esse – ser, estar, constituir, existir, haver
+- superbus, a, um – soberbo
+- superior – V. § 156
+- supero, are – superar, vencer
+- suppleo, ere – completar
+- supra (ac.) – por cima de
+- sus, suis (§ 126) – porco, suino
+- sustineo, ere – sustentar
+- suus, a, um – seu
+
+### T
+
+- Tacitus, i – Tácito
+- tambem – etiam; quoque
+- Tarento – Tarentum, i n.
+- Tarquinius, ii – Tarquínio
+- tato – tactus, us
+- tema – thema, ãtis n.
+- temer – timeo, ere; formido, are
+- templo – templum, i n.
+- tempo – tempus, õris n.
+- ao mesmo tempo – simul
+- tenda – tabernacülum, i n.
+- ter – habeo, ere
+- terra – terra, ae
+- terrestre – terrester, tris, tre
+- território – fines, ium (115, a)
+- terrivel – terribilis, e
+- tesouro – thesaurus, i
+- teu – tuus, a, um
+- Tigre (rio) – Tigris, is (ou idis)
+- tímido – timidus, a, um
+- todo – omnis, e
+- tomar assento – sedeo, ere
+- tosse – tussis, is (113, 2)
+- trabalho – opus, éris n.
+- Trácio – Thrax, acis
+- trágico – tragicus, a, um
+- tranquilo – quietus, a, um
+- transportar – porto, are
+- transporte (meios de) – commeatus, us m.
+- tratado – foedus, éris n.
+- trazer – porto, are
+- três – tres, tria (§ 171, 3)
+- trevas – tenêbrae, arum (§ 51)
+- tribunal – tribünal, ãlis n.
+- trigo – frumentum, i n.
+- tristeza – tristitia, ae
+- trombeta – tuba, ae
+- tropas – copiae, arum (§ 50)
+- trucidar – trucido, are
+- Túlio – Tullius, ii
+- Tulo – Tullus, i
+- turba – turba, ae
+
+### U
+
+- um só – unus, a, um (§ 171, 1)
+- universo – mundus, i
+- urbano – urbanus, a, um
+- urze – myrica, ae
+- uso – usus, us
+- util – utilis, e
+
+### V
+
+- vantajoso – commõdus, a, um
+- vão (adj.) – vanus, a, um
+- varão – vir, viri
+- variado – varius, a, um
+- velhice – senectus, ütis
+- velho – senex, is (subst.); vetus, éris (adj.)
+- veloz – velox, õcis
+- vencedor – victor, õris
+- vencer – supero, are
+- vento – ventus, i
+- verdadeiro – verus, a, um
+- verificar – probo, are
+- vermelho – ruber, bra, brum
+- veterano – veteranus, i
+- vez – muitas vezes – saepe adv.
+- vida – vita, ae
+- vigilância – vigilantia, ae
+- vigilante – attentus, a, um
+- vinda – adventus, us
+- violento – violentus, a, um
+- virtude – virtus, ütis
+- virtuoso – pius, a, um
+- visão – visum, i n.
+- vítima – victima, ae
+- vitória – victoria, ae
+- vocábulo – vocabulum, i n.
+- volta – reditus, us m.
+- voltar – converto, ere
+- vulgo – vulgus, i n. (§ 88)
+
+### X
+
+- Xerxes – Xerxes, is
