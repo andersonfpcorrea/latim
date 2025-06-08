@@ -3,12 +3,12 @@
 Quis multa gracilis te puer in rosa
 perfusus liquidis urget odoribus
 grato, Pyrrha, sub antro?
-cui flauam religas comman,
+cui flauam religas comam,
 
-simples munditiis? Heu quotiens fidem
+simplex munditiis? Heu quotiens fidem
 mutatosque deos flebit et aspera
 nigris aequora uentis
-emmirabitur insolens,
+emirabitur insolens,
 
 qui nunc te fruitur credulus aurea,
 qui semper uacuam, semper amabilem
@@ -30,7 +30,7 @@ uestimenta maris deo
 
 - **quis**: nom. masc. sing., "quis, quae, quod" (pron.) - que
 - **multa**: abl. fem. sing., "multus, as, um" (adj. I) - muito
-- **gracilis**: nom. masc. sing., "gracilis, e" (adj. II) - magro, simples
+- **gracilis**: nom. masc. sing., "gracilis, e" (adj. II) - magro, simplex
 - **te**: abl. sing., "tu" (promone) - te
 - **puer**: nom. masc. sing., "puer, i" (2a dec.) - menino, rapaz
 - **in**: preposição com acusativo e ablativo - em
@@ -53,13 +53,33 @@ Pyrra, que belo rapaz aspergido de perfume te corteja sob agradável gruta em mu
 
 ---
 
-> cui flauam religas comman,
-> simples munditiis? Heu quotiens fidem
+> cui flauam religas comam,
+> simplex munditiis? Heu quotiens fidem
 > mutatosque deos flebit et aspera
 > nigris aequora uentis
-> emmirabitur insolens,
+> emirabitur insolens,
 
 ### Análise sintática
+
+- **cui**: gen. masc. sing., "quis, quae, quod" (pron.) - cujo, do qual
+- **flauam**: ac. fem. sing., "flāvus, a, um" (adj.) - dourado
+- **religas**: 2a. p. sing. pres. indicativo, "religō, āvī, ātus" - religar,amarrar
+- **comam**: ac.fem. sing., "coma, ae" (subst. f.) - cabelo
+- **simplex**: nom. masc. sing., "simplex , plicis" (adj.) - simples
+- **munditiis**: abl/dat f. pl., "mundĭtĭa, ae" (subst.) - limpeza, elegância, enfeite, adorno, polidez
+- **Heu**: interjeição - Ah!. Obs: indica principalmente dor, vindo geralmente acompanhado por acusativo
+- **quotiens**: adv. - quão frequente, quantas vezes, tão frequente quanto
+- **fidem**: ac. fem. sing., "fides, ei" - fé, confiança, crença
+- **mutatos(que)**: ac. masc. pl., "mutatus, a, um" (part. passado de _mūtō, āvī, ātus_) - mudado, movido, alterado,
+- **deos**: ac. masc. fem.,
+- **flebit**:
+- **et**:
+- **aspera**:
+- **nigris**:
+- **aequora**:
+- **uentis**:
+- **emirabitur**:
+- **insolens**:
 
 ### Redisposição
 
