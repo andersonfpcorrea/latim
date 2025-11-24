@@ -1,4 +1,4 @@
-## Horatii Carmina I, 5
+# Horatii Carmina I, 5
 
 Quis multa gracilis te puer in rosa
 perfusus liquidis urget odoribus
@@ -84,11 +84,11 @@ Pyrra, que belo rapaz aspergido de perfume te corteja sob agradável gruta em mu
 ### Redisposição
 
 cui comam flauam religas, simplex minditiis?
-Heu quotiem flebot fidem et mutatos deos
+Heu quotiem flebit fidem et mutatos deos
 et insolens emirabitur nigris aspera aequora ventis
 
 ### Tradução
 
-cujo cabelo dourada amarras, por simples adorno?  
+para quem o cabelo dourado amarras, por simples adorno?  
 Ah! quantas vezes lamentará a confiança e os deuses mudados,
 e o insolente ficará surpreso com os mares agitados por ventos negros
