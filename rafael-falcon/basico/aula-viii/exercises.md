@@ -1,5 +1,6 @@
 RANA RUPTA ET BOS
 
+```
 Inops, potentem dum vult imitari, perit.
 In prato quondam rana conspexit bovem,
 et tacta invidia tantae magnitudinis
@@ -10,3 +11,4 @@ maiore nisu, et simili quaesivit modo,
 quis maior esset. Illi dixerunt 'bovem'.
 Novissime indignata, dum vult validius
 inflare sese, rupto iacuit corpore.
+```
