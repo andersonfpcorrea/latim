@@ -9,3 +9,5 @@ https://vergil.classics.upenn.edu/
 https://glosbe.com/
 
 https://latin-words.com/
+
+https://gaffiot.org/
