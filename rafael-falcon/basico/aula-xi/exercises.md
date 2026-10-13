@@ -18,8 +18,8 @@ cum vix justus sit securus? (Dies Irae)
 
 Que, eu que sou miserável, então vou dizer?
 A que protetor vou rogar?
-quando até os justo mal está seguro?
+quando até o justo mal está seguro?
 
 Nemo tibi dicturus est post resurrectionem mortuorum in regno dei: frange esurienti panem, quia non inuenies esurientem. nemo dicturus est: uesti nudum, ubi omnium tunica immortalitas erit. nemo dicturus est: suscipe peregrinum, ubi omnes in patria sua uiuent, nam modo sumus inde peregrini. nemo dicet: uisita aegrum, ubi est sanitas sempiterna. nemo dicet: sepeli mortuum, ubi mors moritur. (St. Augustinus, Sermo XI)
 
-Nenhum a ti vai falar após a ressureição dos mortos no reino de Deus: parte com o faminto o pão, porque não acharás os famintos. Ninguém dirá: veste os despidos, onde todos estarão com a túnica da imortalidade. Ninguém dirá: recebe o peregrino, onde todos vivem na própria pátria, pois agora somos estrangeiros daquela pátria. Ninguém dirá: visita o doente, onde há saúde eterna. Ninguém dirá: enterra o morto, onde a morte morre.
+Ninguém falar-te-á após a ressureição dos mortos no reino de Deus: parte com o faminto o pão, porque não acharás os famintos. Ninguém dirá: veste os despidos, onde todos estarão com a túnica da imortalidade. Ninguém dirá: recebe o peregrino, onde todos vivem na própria pátria, pois agora somos estrangeiros daquela pátria. Ninguém dirá: visita o doente, onde há saúde eterna. Ninguém dirá: enterra o morto, onde a morte morre.
