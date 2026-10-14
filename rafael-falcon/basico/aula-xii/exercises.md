@@ -1,7 +1,6 @@
 ## SALLUSTII BELLUM IUGURTHINUM
 
-Post ubi castra locata et diei vesper erat, repente Maurus incerto vultu pavens ad Sullam accurrit dicitque sibi ex speculatoribus cognitum Iugurtham haud procul abesse. Simul, uti noctu clam secum profugeret, rogat atque
-hortatur. Ille animo feroci negat se totiens fusum Numidam pertimescere: virtuti suorum satis credere; etiam si certa pestis adesset, mansurum potius, quam proditis quos ducebat. Turpi fuga incertae ac forsitan post paulo morbo interiturae vitae parceret.
+Post ubi castra locata et diei vesper erat, repente Maurus incerto vultu pavens ad Sullam accurrit dicitque sibi ex speculatoribus cognitum Iugurtham haud procul abesse. Simul, uti noctu clam secum profugeret, rogat atque hortatur. Ille animo feroci negat se totiens fusum Numidam pertimescere: virtuti suorum satis credere; etiam si certa pestis adesset, mansurum potius, quam proditis quos ducebat. Turpi fuga incertae ac forsitan post paulo morbo interiturae vitae parceret.
 
 castrum, -i: acampamento militar;
 vultus, -us: expressão facial;
@@ -48,6 +47,14 @@ latro incitatus iurgii causam intulit;
 'Cur' inquit 'turbulentam fecisti mihi
 aquam bibenti?' Laniger contra timens
 'Qui possum, quaeso, facere quod quereris, lupe? A te decurrit ad meos haustus liquor'. Repulsus ille veritatis viribus 'Ante hos sex menses male' ait 'dixisti mihi'. Respondit agnus 'Equidem natus non eram'. 'Pater hercle tuus' ille inquit 'male dixit mihi'; atque ita correptum lacerat iniusta nece. Haec propter illos scripta est homines fabula qui fictis causis innocentes opprimunt.
+
+Levados pela sede, ao mesmo rio o lobo e o cordeioro haviam chegado.
+Acima estava o lobo; abaixo e distante, o cordeiro.
+Então, incitado pela garganta cruel, o ladrão iniciou uma causa para litígio.
+'Porque', perguntou, 'sujaste-me a água que eu bebia?'.
+O cordeiro tememndo responde: 'Como posso, eu pergunto, fazer aquilo de que te queixas, lobo? É de ti que a água vem aos meus goles',
+Repelido pela verdade, disse ele: 'Há seis meses falaste mal de mim'.
+Respondeu o cordeiro: 'Há seis meses eu não era nascido'. 'Teu pai certamente', disse o lobo, 'falou mal de mim'. E assim, agarrando-o violentamente, despedaça-o numa morte injusta. Esta fábula foi escrita por causa daqueles homens que oprimem os inocentes por causas factícias
 
 ---
 
